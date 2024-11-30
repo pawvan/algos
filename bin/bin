@@ -1,0 +1,71 @@
+Array-Related Interview Questions in JavaScript
+Find the Largest Number in an Array
+
+javascript
+Copy code
+function findLargest(arr) {
+  // Your solution here
+}
+Find the Sum of All Elements in an Array
+
+javascript
+Copy code
+function sumArray(arr) {
+  // Your solution here
+}
+Remove Duplicates from an Array
+
+javascript
+Copy code
+function removeDuplicates(arr) {
+  // Your solution here
+}
+Check If an Array Contains a Specific Element
+
+javascript
+Copy code
+function contains(arr, target) {
+  // Your solution here
+}
+Rotate an Array to the Right by k Steps
+
+javascript
+Copy code
+function rotateArray(arr, k) {
+  // Your solution here
+}
+Find the Intersection of Two Arrays
+
+javascript
+Copy code
+function intersection(arr1, arr2) {
+  // Your solution here
+}
+Find the Missing Number in an Array
+
+javascript
+Copy code
+function findMissingNumber(arr) {
+  // Your solution here
+}
+Find All Pairs in an Array That Sum to a Specific Target
+
+javascript
+Copy code
+function findPairs(arr, target) {
+  // Your solution here
+}
+Move All Zeros to the End of an Array
+
+javascript
+Copy code
+function moveZerosToEnd(arr) {
+  // Your solution here
+}
+Merge Two Sorted Arrays
+
+javascript
+Copy code
+function mergeSortedArrays(arr1, arr2) {
+  // Your solution here
+}
